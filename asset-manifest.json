@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/modalcomp/static/css/main.00f4f578.chunk.css",
+    "main.js": "/modalcomp/static/js/main.8e300d78.chunk.js",
+    "main.js.map": "/modalcomp/static/js/main.8e300d78.chunk.js.map",
+    "runtime-main.js": "/modalcomp/static/js/runtime-main.b1bb7f00.js",
+    "runtime-main.js.map": "/modalcomp/static/js/runtime-main.b1bb7f00.js.map",
+    "static/js/2.bedb8430.chunk.js": "/modalcomp/static/js/2.bedb8430.chunk.js",
+    "static/js/2.bedb8430.chunk.js.map": "/modalcomp/static/js/2.bedb8430.chunk.js.map",
+    "static/js/3.285a2b26.chunk.js": "/modalcomp/static/js/3.285a2b26.chunk.js",
+    "static/js/3.285a2b26.chunk.js.map": "/modalcomp/static/js/3.285a2b26.chunk.js.map",
+    "index.html": "/modalcomp/index.html",
+    "static/css/main.00f4f578.chunk.css.map": "/modalcomp/static/css/main.00f4f578.chunk.css.map",
+    "static/js/2.bedb8430.chunk.js.LICENSE.txt": "/modalcomp/static/js/2.bedb8430.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1bb7f00.js",
+    "static/js/2.bedb8430.chunk.js",
+    "static/css/main.00f4f578.chunk.css",
+    "static/js/main.8e300d78.chunk.js"
+  ]
+}
